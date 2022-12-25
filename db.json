@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "title": "JSON SERVER",
+      "message": "hallo react1",
+      "author": "foo",
+      "id": 1
+    },
+    {
+      "title": "REACT",
+      "message": "hallo react2",
+      "author": "facebook",
+      "id": 2
+    },
+    {
+      "title": "BOOTSTRAP",
+      "message": "hallo react3",
+      "author": "css master",
+      "id": 3
+    },
+    {
+      "title": "MEDIUM",
+      "message": "hallo react4",
+      "author": "medium",
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "title": "xczzxc",
+      "author": "11asd",
+      "message": "asasd",
+      "id": "44"
+    },
+    {
+      "title": "zxczxc",
+      "author": "dasdas",
+      "message": "zxczxcz",
+      "id": "777"
+    },
+    {
+      "title": "zxczxc",
+      "author": "dasdas",
+      "message": "zxczxcz",
+      "id": "777888999"
+    },
+    {
+      "title": "zxcczxczxc",
+      "author": "zxczxc",
+      "message": "zxcczxc",
+      "id": "77"
+    }
+  ]
+}

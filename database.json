@@ -1,0 +1,7 @@
+{
+  "posts": [
+    { "id": 1, "post": "welcome to new context","name" : "ahmed" },
+    { "id": 2, "post": "welcome to new context" ,"name": "moustfa" },
+    { "id": 3, "post": "welcome to new context" , "name":"reef"  }
+  ]
+}
